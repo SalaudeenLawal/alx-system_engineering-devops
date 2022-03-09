@@ -1,0 +1,2 @@
+#!/bin/bash
+greq -c "bin" /etc/passwd
