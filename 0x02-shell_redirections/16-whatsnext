@@ -1,0 +1,2 @@
+#!/bin/bash
+greq -A 3 "root" /etc/passwd
